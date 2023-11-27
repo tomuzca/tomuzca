@@ -1,6 +1,6 @@
 # Tomas Uzcategui
 
-## Machine Learning :bar_chart:  | Data Scientist :bar_chart: | Industrial Engineer :computer:
+## Machine Learning :robot:  | Data Scientist :bar_chart: | Industrial Engineer :computer:
 
 I am an enthusiastic data scientist and machine learning engineer with a strong background in industrial engineering.
 I am fascinated by the ability of data to uncover hidden patterns and insights that can drive better decision-making.
