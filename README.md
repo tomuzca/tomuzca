@@ -1,6 +1,6 @@
 # Tomas Uzcategui
 
-## Industrial Engineer with a Passion for Data Science and Machine Learning
+## Industrial Engineer with a passion for Data Science and Machine Learning
 
 I am an enthusiastic data scientist and machine learning engineer with a strong background in industrial engineering.
 I am fascinated by the ability of data to uncover hidden patterns and insights that can drive better decision-making.
