@@ -1,5 +1,5 @@
 **Tomas Uzcategui**
-![pythonlogo](https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png)
+
 **Industrial Engineer with a Passion for Data Science and Machine Learning**
 
 I am an enthusiastic data scientist and machine learning engineer with a strong background in industrial engineering.
@@ -14,3 +14,4 @@ I enjoy applying my skills to solve real-world problems and make a positive impa
 * **Cloud Computing:** AWS, Google Cloud
 
 Please let me know if you would like me to generate code for any of these technologies.
+![pythonlogo](https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png)
