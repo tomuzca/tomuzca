@@ -6,7 +6,7 @@ I am an enthusiastic data scientist and machine learning engineer with a strong 
 I am fascinated by the ability of data to uncover hidden patterns and insights that can drive better decision-making.
 I enjoy applying my skills to solve real-world problems and make a positive impact.
 
-**Technical Skills**
+## **Technical Skills**
 
 * **Programming Languages:** Python, R, SQL
 * **Data Science and Machine Learning:** scikit-learn, pandas, Matplotlib, NumPy
