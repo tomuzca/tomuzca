@@ -1,5 +1,5 @@
 **Tomas Uzcategui**
-
+![pythonlogo](https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png)
 **Industrial Engineer with a Passion for Data Science and Machine Learning**
 
 I am an enthusiastic data scientist and machine learning engineer with a strong background in industrial engineering.
