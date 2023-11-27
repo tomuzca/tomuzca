@@ -9,7 +9,7 @@ I enjoy applying my skills to solve real-world problems and make a positive impa
 ## **Technical Skills**
 
 * **Programming Languages:** Python, R, SQL
-* **Data Science and Machine Learning:** scikit-learn, pandas, Matplotlib, NumPy
+* **Data Science and Machine Learning:** Scikit-learn, Pandas, Matplotlib, NumPy
 * **Web Scraping:** Beautiful Soup, Selenium
 * **Cloud Computing:** AWS, Google Cloud
 
