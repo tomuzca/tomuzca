@@ -14,4 +14,3 @@ I enjoy applying my skills to solve real-world problems and make a positive impa
 * **Cloud Computing:** AWS, Google Cloud
 
 Please let me know if you would like me to generate code for any of these technologies.
-
