@@ -1,5 +1,3 @@
-![](mon.jpeg)
-
 ## Machine Learning | Data Scientist | Industrial Engineer 
 
 I am an enthusiastic data scientist and machine learning engineer with a strong background in industrial engineering.
@@ -14,3 +12,4 @@ I enjoy applying my skills to solve real-world problems and make a positive impa
 * **Cloud Computing:** AWS, Google Cloud
 
 Please let me know if you would like me to generate code for any of these technologies.
+![](mon.jpeg)
