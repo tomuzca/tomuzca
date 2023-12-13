@@ -1,4 +1,6 @@
-## Machine Learning :robot:  | Data Scientist :bar_chart: | Industrial Engineer :computer:
+![](C:/Users/tomuz/Documents/Data/monitor graficos.jpeg)
+
+## Machine Learning | Data Scientist | Industrial Engineer 
 
 I am an enthusiastic data scientist and machine learning engineer with a strong background in industrial engineering.
 I am fascinated by the ability of data to uncover hidden patterns and insights that can drive better decision-making.
