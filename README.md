@@ -1,4 +1,4 @@
-
+![Texto Alternativo](monitor graficos.jpeg)
 
 ## Machine Learning | Data Scientist | Industrial Engineer 
 
