@@ -1,4 +1,4 @@
-![](C:/Users/tomuz/Documents/Data/monitor graficos.jpeg)
+
 
 ## Machine Learning | Data Scientist | Industrial Engineer 
 
