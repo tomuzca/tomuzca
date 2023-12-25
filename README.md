@@ -1,8 +1,7 @@
 ## Machine Learning | Data Scientist | Industrial Engineer 
 
-I am an enthusiastic data scientist and machine learning engineer with a strong background in industrial engineering.
-I am fascinated by the ability of data to uncover hidden patterns and insights that can drive better decision-making.
-I enjoy applying my skills to solve real-world problems and make a positive impact.
+I am an industrial engineer with experience in the construction and mass production industry. 
+The skills I have acquired along this journey are now being utilized to analyze data in the realm of music, encompassing aspects such as concerts, trends, and other related elements
 
 ## **Technical Skills**
 
@@ -12,4 +11,4 @@ I enjoy applying my skills to solve real-world problems and make a positive impa
 * **Cloud Computing:** AWS, Google Cloud
 
 Please let me know if you would like me to generate code for any of these technologies.
-![](mon.jpeg)
+![](guitargraph.jpeg)
